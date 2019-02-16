@@ -1,2 +1,3 @@
-# Openpyxl
-project to read and write in excel files using pythoon
+# Python excel read and write
+
+As simple python script to read and write data in excel files.
